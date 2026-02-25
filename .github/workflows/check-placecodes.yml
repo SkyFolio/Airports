@@ -1,0 +1,70 @@
+name: Check for new placeCodes
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # Runs daily at 5 PM Stockholm time (4 PM UTC)
+  workflow_dispatch:  # Allows manual trigger from Actions tab
+
+jobs:
+  check-placecodes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Fetch airports.json from Skycards/Changes
+        run: |
+          curl -s -o airports.json https://raw.githubusercontent.com/Skycards/Changes/main/airports.json
+
+      - name: Check for new placeCodes
+        id: check
+        run: |
+          python3 << 'EOF'
+          import json
+          import os
+
+          # Load their airport data
+          with open("airports.json") as f:
+              airports = json.load(f)
+
+          # Load our mapping
+          with open("placeCode-mapping.json") as f:
+              mapping = json.load(f)
+
+          # Get all placeCodes from their data
+          their_codes = set(a.get("placeCode") for a in airports["rows"] if a.get("placeCode"))
+
+          # Get all placeCodes from our mapping
+          our_codes = set(m["placeCode"] for m in mapping)
+
+          # Find any codes in their data that we don't have
+          missing = sorted(their_codes - our_codes)
+
+          if missing:
+              print(f"Found {len(missing)} new placeCode(s): {', '.join(missing)}")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write(f"missing=true\n")
+                  f.write(f"missing_codes={', '.join(missing)}\n")
+                  f.write(f"missing_count={len(missing)}\n")
+          else:
+              print("All placeCodes are mapped. No action needed.")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write(f"missing=false\n")
+          EOF
+
+      - name: Create issue for missing placeCodes
+        if: steps.check.outputs.missing == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const missingCodes = '${{ steps.check.outputs.missing_codes }}';
+            const missingCount = '${{ steps.check.outputs.missing_count }}';
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `New placeCode(s) found: ${missingCodes}`,
+              body: `The daily check found ${missingCount} new placeCode(s) in the Skycards airport data that are not in our mapping.\n\n**Missing codes:** ${missingCodes}\n\nThese need to be added to \`placeCode-mapping.json\` with the correct country, continent, and region (if applicable).`,
+              labels: ['data-update']
+            });
