@@ -60,9 +60,52 @@
     "continent": "Europe"
   },
   {
-    "placeCode": "AU",
+    "placeCode": "AU-ACT",
     "country": "Australia",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "region": "Australian Capital Territory"
+  },
+  {
+    "placeCode": "AU-NSW",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "New South Wales"
+  },
+  {
+    "placeCode": "AU-NT",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "Northern Territory"
+  },
+  {
+    "placeCode": "AU-QLD",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "Queensland"
+  },
+  {
+    "placeCode": "AU-SA",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "South Australia"
+  },
+  {
+    "placeCode": "AU-TAS",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "Tasmania"
+  },
+  {
+    "placeCode": "AU-VIC",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "Victoria"
+  },
+  {
+    "placeCode": "AU-WA",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "Western Australia"
   },
   {
     "placeCode": "AW",
@@ -180,9 +223,82 @@
     "continent": "North America"
   },
   {
-    "placeCode": "CA",
+    "placeCode": "CA-AB",
     "country": "Canada",
-    "continent": "North America"
+    "continent": "North America",
+    "region": "Alberta"
+  },
+  {
+    "placeCode": "CA-BC",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "British Columbia"
+  },
+  {
+    "placeCode": "CA-MB",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Manitoba"
+  },
+  {
+    "placeCode": "CA-NB",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "New Brunswick"
+  },
+  {
+    "placeCode": "CA-NL",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Newfoundland and Labrador"
+  },
+  {
+    "placeCode": "CA-NS",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Nova Scotia"
+  },
+  {
+    "placeCode": "CA-NT",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Northwest Territories"
+  },
+  {
+    "placeCode": "CA-NU",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Nunavut"
+  },
+  {
+    "placeCode": "CA-ON",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Ontario"
+  },
+  {
+    "placeCode": "CA-PE",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Prince Edward Island"
+  },
+  {
+    "placeCode": "CA-QC",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Quebec"
+  },
+  {
+    "placeCode": "CA-SK",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Saskatchewan"
+  },
+  {
+    "placeCode": "CA-YT",
+    "country": "Canada",
+    "continent": "North America",
+    "region": "Yukon"
   },
   {
     "placeCode": "CC",
@@ -230,9 +346,190 @@
     "continent": "Africa"
   },
   {
-    "placeCode": "CN",
+    "placeCode": "CN-AH",
     "country": "China",
-    "continent": "Asia"
+    "continent": "Asia",
+    "region": "Anhui"
+  },
+  {
+    "placeCode": "CN-BJ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Beijing"
+  },
+  {
+    "placeCode": "CN-CQ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Chongqing"
+  },
+  {
+    "placeCode": "CN-FJ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Fujian"
+  },
+  {
+    "placeCode": "CN-GD",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Guangdong"
+  },
+  {
+    "placeCode": "CN-GS",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Gansu"
+  },
+  {
+    "placeCode": "CN-GX",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Guangxi"
+  },
+  {
+    "placeCode": "CN-GZ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Guizhou"
+  },
+  {
+    "placeCode": "CN-HA",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Henan"
+  },
+  {
+    "placeCode": "CN-HB",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Hubei"
+  },
+  {
+    "placeCode": "CN-HE",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Hebei"
+  },
+  {
+    "placeCode": "CN-HI",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Hainan"
+  },
+  {
+    "placeCode": "CN-HL",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Heilongjiang"
+  },
+  {
+    "placeCode": "CN-HN",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Hunan"
+  },
+  {
+    "placeCode": "CN-JL",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Jilin"
+  },
+  {
+    "placeCode": "CN-JS",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Jiangsu"
+  },
+  {
+    "placeCode": "CN-JX",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Jiangxi"
+  },
+  {
+    "placeCode": "CN-LN",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Liaoning"
+  },
+  {
+    "placeCode": "CN-NM",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Inner Mongolia"
+  },
+  {
+    "placeCode": "CN-NX",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Ningxia"
+  },
+  {
+    "placeCode": "CN-QH",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Qinghai"
+  },
+  {
+    "placeCode": "CN-SC",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Sichuan"
+  },
+  {
+    "placeCode": "CN-SD",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Shandong"
+  },
+  {
+    "placeCode": "CN-SH",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Shanghai"
+  },
+  {
+    "placeCode": "CN-SN",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Shaanxi"
+  },
+  {
+    "placeCode": "CN-SX",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Shanxi"
+  },
+  {
+    "placeCode": "CN-TJ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Tianjin"
+  },
+  {
+    "placeCode": "CN-XJ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Xinjiang"
+  },
+  {
+    "placeCode": "CN-XZ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Tibet"
+  },
+  {
+    "placeCode": "CN-YN",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Yunnan"
+  },
+  {
+    "placeCode": "CN-ZJ",
+    "country": "China",
+    "continent": "Asia",
+    "region": "Zhejiang"
   },
   {
     "placeCode": "CO",
@@ -1140,9 +1437,304 @@
     "continent": "Oceania"
   },
   {
-    "placeCode": "US",
+    "placeCode": "US-AK",
     "country": "United States",
-    "continent": "North America"
+    "continent": "North America",
+    "region": "Alaska"
+  },
+  {
+    "placeCode": "US-AL",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Alabama"
+  },
+  {
+    "placeCode": "US-AR",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Arkansas"
+  },
+  {
+    "placeCode": "US-AZ",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Arizona"
+  },
+  {
+    "placeCode": "US-CA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "California"
+  },
+  {
+    "placeCode": "US-CO",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Colorado"
+  },
+  {
+    "placeCode": "US-CT",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Connecticut"
+  },
+  {
+    "placeCode": "US-DE",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Delaware"
+  },
+  {
+    "placeCode": "US-FL",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Florida"
+  },
+  {
+    "placeCode": "US-GA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Georgia"
+  },
+  {
+    "placeCode": "US-HI",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Hawaii"
+  },
+  {
+    "placeCode": "US-IA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Iowa"
+  },
+  {
+    "placeCode": "US-ID",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Idaho"
+  },
+  {
+    "placeCode": "US-IL",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Illinois"
+  },
+  {
+    "placeCode": "US-IN",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Indiana"
+  },
+  {
+    "placeCode": "US-KS",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Kansas"
+  },
+  {
+    "placeCode": "US-KY",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Kentucky"
+  },
+  {
+    "placeCode": "US-LA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Louisiana"
+  },
+  {
+    "placeCode": "US-MA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Massachusetts"
+  },
+  {
+    "placeCode": "US-MD",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Maryland"
+  },
+  {
+    "placeCode": "US-ME",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Maine"
+  },
+  {
+    "placeCode": "US-MI",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Michigan"
+  },
+  {
+    "placeCode": "US-MN",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Minnesota"
+  },
+  {
+    "placeCode": "US-MO",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Missouri"
+  },
+  {
+    "placeCode": "US-MS",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Mississippi"
+  },
+  {
+    "placeCode": "US-MT",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Montana"
+  },
+  {
+    "placeCode": "US-NC",
+    "country": "United States",
+    "continent": "North America",
+    "region": "North Carolina"
+  },
+  {
+    "placeCode": "US-ND",
+    "country": "United States",
+    "continent": "North America",
+    "region": "North Dakota"
+  },
+  {
+    "placeCode": "US-NE",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Nebraska"
+  },
+  {
+    "placeCode": "US-NH",
+    "country": "United States",
+    "continent": "North America",
+    "region": "New Hampshire"
+  },
+  {
+    "placeCode": "US-NJ",
+    "country": "United States",
+    "continent": "North America",
+    "region": "New Jersey"
+  },
+  {
+    "placeCode": "US-NM",
+    "country": "United States",
+    "continent": "North America",
+    "region": "New Mexico"
+  },
+  {
+    "placeCode": "US-NV",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Nevada"
+  },
+  {
+    "placeCode": "US-NY",
+    "country": "United States",
+    "continent": "North America",
+    "region": "New York"
+  },
+  {
+    "placeCode": "US-OH",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Ohio"
+  },
+  {
+    "placeCode": "US-OK",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Oklahoma"
+  },
+  {
+    "placeCode": "US-OR",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Oregon"
+  },
+  {
+    "placeCode": "US-PA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Pennsylvania"
+  },
+  {
+    "placeCode": "US-RI",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Rhode Island"
+  },
+  {
+    "placeCode": "US-SC",
+    "country": "United States",
+    "continent": "North America",
+    "region": "South Carolina"
+  },
+  {
+    "placeCode": "US-SD",
+    "country": "United States",
+    "continent": "North America",
+    "region": "South Dakota"
+  },
+  {
+    "placeCode": "US-TN",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Tennessee"
+  },
+  {
+    "placeCode": "US-TX",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Texas"
+  },
+  {
+    "placeCode": "US-UT",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Utah"
+  },
+  {
+    "placeCode": "US-VA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Virginia"
+  },
+  {
+    "placeCode": "US-VT",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Vermont"
+  },
+  {
+    "placeCode": "US-WA",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Washington"
+  },
+  {
+    "placeCode": "US-WI",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Wisconsin"
+  },
+  {
+    "placeCode": "US-WV",
+    "country": "United States",
+    "continent": "North America",
+    "region": "West Virginia"
+  },
+  {
+    "placeCode": "US-WY",
+    "country": "United States",
+    "continent": "North America",
+    "region": "Wyoming"
   },
   {
     "placeCode": "UY",
