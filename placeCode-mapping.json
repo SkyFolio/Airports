@@ -1,0 +1,1232 @@
+[
+  {
+    "placeCode": "AD",
+    "country": "Andorra",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "AE",
+    "country": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "AF",
+    "country": "Afghanistan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "AG",
+    "country": "Antigua and Barbuda",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "AI",
+    "country": "Anguilla",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "AL",
+    "country": "Albania",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "AM",
+    "country": "Armenia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "AO",
+    "country": "Angola",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "AQ",
+    "country": "Antarctica",
+    "continent": "Antarctica"
+  },
+  {
+    "placeCode": "AR",
+    "country": "Argentina",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "AS",
+    "country": "American Samoa",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "AT",
+    "country": "Austria",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "AU",
+    "country": "Australia",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "AW",
+    "country": "Aruba",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "AX",
+    "country": "Aland Islands",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "AZ",
+    "country": "Azerbaijan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "BB",
+    "country": "Barbados",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "BD",
+    "country": "Bangladesh",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "BE",
+    "country": "Belgium",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "BF",
+    "country": "Burkina Faso",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "BG",
+    "country": "Bulgaria",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "BH",
+    "country": "Bahrain",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "BI",
+    "country": "Burundi",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "BJ",
+    "country": "Benin",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "BL",
+    "country": "Saint Barthelemy",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "BM",
+    "country": "Bermuda",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "BN",
+    "country": "Brunei",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "BO",
+    "country": "Bolivia",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "BQ",
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "BR",
+    "country": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "BS",
+    "country": "Bahamas",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "BT",
+    "country": "Bhutan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "BW",
+    "country": "Botswana",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "BY",
+    "country": "Belarus",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "BZ",
+    "country": "Belize",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "CA",
+    "country": "Canada",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "CC",
+    "country": "Cocos (Keeling) Islands",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "CD",
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CF",
+    "country": "Central African Republic",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CG",
+    "country": "Republic of the Congo",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CH",
+    "country": "Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "CI",
+    "country": "Ivory Coast",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CK",
+    "country": "Cook Islands",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "CL",
+    "country": "Chile",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "CM",
+    "country": "Cameroon",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CN",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "CO",
+    "country": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "CR",
+    "country": "Costa Rica",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "CU",
+    "country": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "CV",
+    "country": "Cape Verde",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "CW",
+    "country": "Curacao",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "CX",
+    "country": "Christmas Island",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "CY",
+    "country": "Cyprus",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "CZ",
+    "country": "Czech Republic",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "DE",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "DJ",
+    "country": "Djibouti",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "DK",
+    "country": "Denmark",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "DM",
+    "country": "Dominica",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "DO",
+    "country": "Dominican Republic",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "DZ",
+    "country": "Algeria",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "EC",
+    "country": "Ecuador",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "EE",
+    "country": "Estonia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "EG",
+    "country": "Egypt",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "EH",
+    "country": "Western Sahara",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ER",
+    "country": "Eritrea",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ES",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "ET",
+    "country": "Ethiopia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "FI",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "FJ",
+    "country": "Fiji",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "FK",
+    "country": "Falkland Islands",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "FM",
+    "country": "Micronesia",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "FO",
+    "country": "Faroe Islands",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "FR",
+    "country": "France",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "GA",
+    "country": "Gabon",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GB",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "GD",
+    "country": "Grenada",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "GE",
+    "country": "Georgia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "GF",
+    "country": "French Guiana",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "GG",
+    "country": "Guernsey",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "GH",
+    "country": "Ghana",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GI",
+    "country": "Gibraltar",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "GL",
+    "country": "Greenland",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "GM",
+    "country": "Gambia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GN",
+    "country": "Guinea",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GP",
+    "country": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "GQ",
+    "country": "Equatorial Guinea",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GR",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "GT",
+    "country": "Guatemala",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "GU",
+    "country": "Guam",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "GW",
+    "country": "Guinea-Bissau",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "GY",
+    "country": "Guyana",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "HK",
+    "country": "Hong Kong",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "HN",
+    "country": "Honduras",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "HR",
+    "country": "Croatia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "HT",
+    "country": "Haiti",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "HU",
+    "country": "Hungary",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "ID",
+    "country": "Indonesia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IE",
+    "country": "Ireland",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "IL",
+    "country": "Israel",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IM",
+    "country": "Isle of Man",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "IN",
+    "country": "India",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IO",
+    "country": "British Indian Ocean Territory",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IQ",
+    "country": "Iraq",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IR",
+    "country": "Iran",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "IS",
+    "country": "Iceland",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "IT",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "JE",
+    "country": "Jersey",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "JM",
+    "country": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "JO",
+    "country": "Jordan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "JP",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KE",
+    "country": "Kenya",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "KG",
+    "country": "Kyrgyzstan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KH",
+    "country": "Cambodia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KI",
+    "country": "Kiribati",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "KM",
+    "country": "Comoros",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "KP",
+    "country": "North Korea",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KR",
+    "country": "South Korea",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KW",
+    "country": "Kuwait",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "KY",
+    "country": "Cayman Islands",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "KZ",
+    "country": "Kazakhstan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "LA",
+    "country": "Laos",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "LB",
+    "country": "Lebanon",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "LC",
+    "country": "Saint Lucia",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "LI",
+    "country": "Liechtenstein",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "LK",
+    "country": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "LR",
+    "country": "Liberia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "LS",
+    "country": "Lesotho",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "LT",
+    "country": "Lithuania",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "LU",
+    "country": "Luxembourg",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "LV",
+    "country": "Latvia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "LY",
+    "country": "Libya",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MA",
+    "country": "Morocco",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MC",
+    "country": "Monaco",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "MD",
+    "country": "Moldova",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "ME",
+    "country": "Montenegro",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "MF",
+    "country": "Saint Martin",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "MG",
+    "country": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MH",
+    "country": "Marshall Islands",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "MK",
+    "country": "North Macedonia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "ML",
+    "country": "Mali",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MM",
+    "country": "Myanmar",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "MN",
+    "country": "Mongolia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "MO",
+    "country": "Macau",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "MP",
+    "country": "Northern Mariana Islands",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "MQ",
+    "country": "Martinique",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "MR",
+    "country": "Mauritania",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MS",
+    "country": "Montserrat",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "MT",
+    "country": "Malta",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "MU",
+    "country": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MV",
+    "country": "Maldives",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "MW",
+    "country": "Malawi",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "MX",
+    "country": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "MY",
+    "country": "Malaysia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "MZ",
+    "country": "Mozambique",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "NA",
+    "country": "Namibia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "NC",
+    "country": "New Caledonia",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "NE",
+    "country": "Niger",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "NF",
+    "country": "Norfolk Island",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "NG",
+    "country": "Nigeria",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "NI",
+    "country": "Nicaragua",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "NL",
+    "country": "Netherlands",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "NO",
+    "country": "Norway",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "NP",
+    "country": "Nepal",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "NR",
+    "country": "Nauru",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "NU",
+    "country": "Niue",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "NZ",
+    "country": "New Zealand",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "OM",
+    "country": "Oman",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "PA",
+    "country": "Panama",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "PE",
+    "country": "Peru",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "PF",
+    "country": "French Polynesia",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "PG",
+    "country": "Papua New Guinea",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "PH",
+    "country": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "PK",
+    "country": "Pakistan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "PL",
+    "country": "Poland",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "PM",
+    "country": "Saint Pierre and Miquelon",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "PR",
+    "country": "Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "PS",
+    "country": "Palestine",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "PT",
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "PW",
+    "country": "Palau",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "PY",
+    "country": "Paraguay",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "QA",
+    "country": "Qatar",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "RE",
+    "country": "Reunion",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "RO",
+    "country": "Romania",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "RS",
+    "country": "Serbia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "RU",
+    "country": "Russia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "RW",
+    "country": "Rwanda",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SA",
+    "country": "Saudi Arabia",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "SB",
+    "country": "Solomon Islands",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "SC",
+    "country": "Seychelles",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SD",
+    "country": "Sudan",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SE",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "SG",
+    "country": "Singapore",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "SH",
+    "country": "Saint Helena",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SI",
+    "country": "Slovenia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "SJ",
+    "country": "Svalbard and Jan Mayen",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "SK",
+    "country": "Slovakia",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "SL",
+    "country": "Sierra Leone",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SM",
+    "country": "San Marino",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "SN",
+    "country": "Senegal",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SO",
+    "country": "Somalia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SR",
+    "country": "Suriname",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "SS",
+    "country": "South Sudan",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ST",
+    "country": "Sao Tome and Principe",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "SV",
+    "country": "El Salvador",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "SX",
+    "country": "Sint Maarten",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "SY",
+    "country": "Syria",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "SZ",
+    "country": "Eswatini",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "TC",
+    "country": "Turks and Caicos Islands",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "TD",
+    "country": "Chad",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "TF",
+    "country": "French Southern Territories",
+    "continent": "Antarctica"
+  },
+  {
+    "placeCode": "TG",
+    "country": "Togo",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "TH",
+    "country": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TJ",
+    "country": "Tajikistan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TK",
+    "country": "Tokelau",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "TL",
+    "country": "Timor-Leste",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TM",
+    "country": "Turkmenistan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TN",
+    "country": "Tunisia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "TO",
+    "country": "Tonga",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "TR",
+    "country": "Turkey",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TT",
+    "country": "Trinidad and Tobago",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "TV",
+    "country": "Tuvalu",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "TW",
+    "country": "Taiwan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "TZ",
+    "country": "Tanzania",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "UA",
+    "country": "Ukraine",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "UG",
+    "country": "Uganda",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "UM",
+    "country": "United States Minor Outlying Islands",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "US",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "UY",
+    "country": "Uruguay",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "UZ",
+    "country": "Uzbekistan",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "VA",
+    "country": "Vatican City",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "VE",
+    "country": "Venezuela",
+    "continent": "South America"
+  },
+  {
+    "placeCode": "VG",
+    "country": "British Virgin Islands",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "VI",
+    "country": "U.S. Virgin Islands",
+    "continent": "North America"
+  },
+  {
+    "placeCode": "VN",
+    "country": "Vietnam",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "VU",
+    "country": "Vanuatu",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "WF",
+    "country": "Wallis and Futuna",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "WS",
+    "country": "Samoa",
+    "continent": "Oceania"
+  },
+  {
+    "placeCode": "XK",
+    "country": "Kosovo",
+    "continent": "Europe"
+  },
+  {
+    "placeCode": "YE",
+    "country": "Yemen",
+    "continent": "Asia"
+  },
+  {
+    "placeCode": "YT",
+    "country": "Mayotte",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ZA",
+    "country": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ZM",
+    "country": "Zambia",
+    "continent": "Africa"
+  },
+  {
+    "placeCode": "ZW",
+    "country": "Zimbabwe",
+    "continent": "Africa"
+  }
+]
