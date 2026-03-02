@@ -33,7 +33,8 @@ jobs:
               mapping = json.load(f)
 
           # Get all placeCodes from their data
-          their_codes = set(a.get("placeCode") for a in airports["rows"] if a.get("placeCode"))
+          their_codes = set(a.get("placeCode") for a in airports["rows"] if a.get("placeCode") and a.get("iata"))
+
 
           # Get all placeCodes from our mapping
           our_codes = set(m["placeCode"] for m in mapping)
